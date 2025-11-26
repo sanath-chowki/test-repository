@@ -1,4 +1,3 @@
-# To print hello world
+# To print hello & bye world
 print("hello world")
-# To print bye world
 print("bye world")
