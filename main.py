@@ -1,1 +1,2 @@
-print("bye world")
+# To print hello world
+print("hello world")
